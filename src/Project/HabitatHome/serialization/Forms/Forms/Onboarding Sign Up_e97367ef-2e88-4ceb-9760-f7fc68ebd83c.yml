@@ -1,5 +1,5 @@
 ﻿---
-ID: "7493c92d-da35-44a7-b8d8-cb3a6bf9d561"
+ID: "e97367ef-2e88-4ceb-9760-f7fc68ebd83c"
 Parent: "b701850a-cb8a-4943-b2bc-dddb1238c103"
 Template: "6abee1f2-4ab4-47f0-ad8b-bdb36f37f64c"
 Path: /sitecore/Forms/Onboarding Sign Up
@@ -18,7 +18,7 @@ SharedFields:
 - ID: "9eb86f19-2e5d-48db-9795-0ee4868eff11"
   Hint: Is Ajax
   Type: Checkbox
-  Value: 0
+  Value: 1
 - ID: "c3f328ab-4a32-4140-8878-0477ca1ce9df"
   Hint: Styles
   Value: 
